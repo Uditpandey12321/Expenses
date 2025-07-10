@@ -1,1 +1,2 @@
-# Expenses
+It is a powerful and versatile solution for businesses and individuals to track, manage, and categorize their expenses. Using MERN, build a seamless, efficient, and full-fledged application with a dynamic frontend and robust backend.
+The app includes features like budget setting, expense logging, and visual expense reports. The technical requirements include MongoDB for storing user data, expense records, financial data, and user profiles, Express.js
